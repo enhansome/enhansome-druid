@@ -1,0 +1,625 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tranquility",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-01-13T10:29:28Z",
+            "owner": "druid-io",
+            "repo": "tranquility",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-spring-boot",
+          "description": "Spring Boot starter for Druid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-02-13T11:23:35Z",
+            "owner": "drtrang",
+            "repo": "druid-spring-boot",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fili",
+          "description": "Easily make RESTful web services for time series reporting with Big Data analytics engines like Druid and Hive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-19T19:33:35Z",
+            "owner": "yahoo",
+            "repo": "fili",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sherlock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-12-02T20:04:05Z",
+            "owner": "yahoo",
+            "repo": "sherlock",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plyql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-09-10T23:06:07Z",
+            "owner": "implydata",
+            "repo": "plyql",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maha",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-01-17T07:40:27Z",
+            "owner": "yahoo",
+            "repo": "maha",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grafana-druid-plugin",
+          "description": "This repository contains the druid plugin for Grafana 3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T04:07:55Z",
+            "owner": "grafana-druid-plugin",
+            "repo": "druidplugin",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-spark-batch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-10-21T08:35:08Z",
+            "owner": "metamx",
+            "repo": "druid-spark-batch",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-spark-batch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-10-21T08:35:08Z",
+            "owner": "metamx",
+            "repo": "druid-spark-batch",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-druid-query",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-11T16:37:15Z",
+            "owner": "7eggs",
+            "repo": "node-druid-query",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embedded-druid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2016-11-18T20:01:32Z",
+            "owner": "eBay",
+            "repo": "embedded-druid",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-01-04T01:51:29Z",
+            "owner": "implydata",
+            "repo": "druid-client",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-druid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-12-16T13:53:32Z",
+            "owner": "y42",
+            "repo": "clj-druid",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kafka-spark-streaming-druid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-09-29T22:11:18Z",
+            "owner": "ramkumarvenkat",
+            "repo": "kafka-spark-streaming-druid",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-mdx",
+          "description": "Example of running MDX on Druid via Mondrian and Calcite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-08-03T01:31:17Z",
+            "owner": "julianhyde",
+            "repo": "druid-mdx",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-console",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2022-12-07T12:32:00Z",
+            "owner": "druid-io",
+            "repo": "druid-console",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-scala-client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-01-12T15:44:20Z",
+            "owner": "daggerrz",
+            "repo": "druid-scala-client",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yahoo-druid-extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-10-25T19:24:40Z",
+            "owner": "YahooArchive",
+            "repo": "druid-extensions",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-hadoop-utils",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-01-18T21:50:50Z",
+            "owner": "himanshug",
+            "repo": "druid-hadoop-utils",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-hadoop-inputformat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-10-26T14:57:15Z",
+            "owner": "implydata",
+            "repo": "druid-hadoop-inputformat",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druidlet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-05-24T10:30:15Z",
+            "owner": "InferlyticsOSS",
+            "repo": "druidlet",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "incubator-zeppelin-druid",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Druid"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docker-druid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-08T22:56:47Z",
+            "owner": "druid-io",
+            "repo": "docker-druid",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-kubernetes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smarty",
+            "last_commit": "2016-12-02T09:08:36Z",
+            "owner": "krallistic",
+            "repo": "druid-kubernetes",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cm-druid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-03T02:44:11Z",
+            "owner": "knoguchi",
+            "repo": "cm-druid",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-ansible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-06-29T19:53:01Z",
+            "owner": "imungoma",
+            "repo": "druid-ansible",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-puppet",
+          "description": "Puppet module that sets up and configures a full druid cluster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Puppet",
+            "last_commit": "2015-12-12T11:55:49Z",
+            "owner": "MrAlias",
+            "repo": "druid",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-rpm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2016-01-15T02:48:01Z",
+            "owner": "cleberar",
+            "repo": "druid-rpm",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "druid-monitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-01-02T08:17:19Z",
+            "owner": "shrekwang",
+            "repo": "druid-monitor",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid-metrics-to-kafka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-09-07T15:20:09Z",
+            "owner": "quantiply",
+            "repo": "druid-metrics-to-kafka",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "metabase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T20:43:38Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 48747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turnilo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-06-26T07:14:22Z",
+            "owner": "allegro",
+            "repo": "turnilo",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swiv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-10-05T03:03:35Z",
+            "owner": "YahooArchive",
+            "repo": "swiv",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphana-druid-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T04:07:55Z",
+            "owner": "grafana-druid-plugin",
+            "repo": "druidplugin",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plywood",
+          "description": "A higher level API for Druid. An extension of the work that was started in facet.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-20T23:32:33Z",
+            "owner": "implydata",
+            "repo": "plywood",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-druid-query",
+          "description": "A Node.js client for Druid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-11T16:37:15Z",
+            "owner": "7eggs",
+            "repo": "node-druid-query",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ruby-druid",
+          "description": "A ruby client for Druid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-02-06T08:07:20Z",
+            "owner": "ruby-druid",
+            "repo": "ruby-druid",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druiddb-ruby",
+          "description": "A Ruby client for Druid using the Kafka Indexing Service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-10-19T19:35:24Z",
+            "owner": "andremleblanc",
+            "repo": "druiddb-ruby",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "druid_config",
+          "description": "A ruby client to configure and check the status of a Druid Cluster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-04-14T13:28:42Z",
+            "owner": "redBorder",
+            "repo": "druid_config",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "druid-php",
+          "description": "A PHP client for Druid",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-06-16T13:19:41Z",
+            "owner": "pixelfederation",
+            "repo": "druid-php",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP-Druid",
+          "description": "A Druid driver for PHP with PECL extension",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-05-02T04:14:18Z",
+            "owner": "Neeke",
+            "repo": "PHP-Druid",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "PHP"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:55:43.695Z",
+    "original_repository": "semantalytics/awesome-druid",
+    "original_repository_sha": "622c7939d23c2c1926adf4bf053078c75d980487",
+    "enhanced_repository": "enhansome/enhansome-druid",
+    "enhanced_repository_description": null,
+    "title": "awesome-druid with stars"
+  }
+}
