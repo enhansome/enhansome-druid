@@ -14,7 +14,7 @@
             "last_commit": "2020-01-13T10:29:28Z",
             "owner": "druid-io",
             "repo": "tranquility",
-            "stars": 520
+            "stars": 519
           }
         },
         {
@@ -441,10 +441,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-13T20:43:38Z",
+            "last_commit": "2026-08-14T20:38:27Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48747
+            "stars": 48761
           }
         },
         {
@@ -615,7 +615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:55:43.695Z",
+    "last_updated": "2026-08-14T20:39:02.013Z",
     "original_repository": "semantalytics/awesome-druid",
     "original_repository_sha": "622c7939d23c2c1926adf4bf053078c75d980487",
     "enhanced_repository": "enhansome/enhansome-druid",

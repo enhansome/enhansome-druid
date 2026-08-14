@@ -9,7 +9,7 @@
 
 ## Druid
 
-* [tranquility](https://github.com/druid-io/tranquility) ⭐ 520 | 🐛 103 | 🌐 Scala | 📅 2020-01-13
+* [tranquility](https://github.com/druid-io/tranquility) ⭐ 519 | 🐛 103 | 🌐 Scala | 📅 2020-01-13
 * [druid-spring-boot](https://github.com/drtrang/druid-spring-boot) ⭐ 314 | 🐛 10 | 🌐 Java | 📅 2020-02-13 Spring Boot starter for Druid
 * [fili](https://github.com/yahoo/fili) ⭐ 176 | 🐛 291 | 🌐 Java | 📅 2023-07-19 Easily make RESTful web services for time series reporting with Big Data analytics engines like Druid and Hive.
 * [sherlock](https://github.com/yahoo/sherlock) ⭐ 158 | 🐛 12 | 🌐 Java | 📅 2024-12-02
@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 48,747 | 🐛 4,301 | 🌐 Clojure | 📅 2026-08-13
+* [metabase](https://github.com/metabase/metabase) ⭐ 48,761 | 🐛 4,318 | 🌐 Clojure | 📅 2026-08-14
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -162,8 +162,8 @@
 * [Mondrian](https://community.hitachivantara.com/docs/DOC-1009853)
 * [Pentaho](https://www.hitachivantara.com/go/pentaho.html?source=pentaho-redirect)
 * [jdbc4olap](http://www.jdbc4olap.org/)
-* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,313 | 🐛 56 | 🌐 Java | 📅 2026-08-13
+* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,313 | 🐛 55 | 🌐 Java | 📅 2026-08-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
