@@ -441,10 +441,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-14T20:38:27Z",
+            "last_commit": "2026-08-15T14:53:15Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48761
+            "stars": 48774
           }
         },
         {
@@ -615,7 +615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:39:02.013Z",
+    "last_updated": "2026-08-15T20:34:06.837Z",
     "original_repository": "semantalytics/awesome-druid",
     "original_repository_sha": "622c7939d23c2c1926adf4bf053078c75d980487",
     "enhanced_repository": "enhansome/enhansome-druid",
