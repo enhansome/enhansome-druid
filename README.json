@@ -465,10 +465,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-20T20:39:17Z",
+            "last_commit": "2026-08-21T20:34:28Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48852
+            "stars": 48870
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:39:23.379Z",
+    "last_updated": "2026-08-21T20:35:34.355Z",
     "original_repository": "semantalytics/awesome-druid",
     "original_repository_id": 138177303,
     "original_repository_sha": "622c7939d23c2c1926adf4bf053078c75d980487",
