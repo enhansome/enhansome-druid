@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 48,906 | 🐛 4,397 | 🌐 Clojure | 📅 2026-08-24
+* [metabase](https://github.com/metabase/metabase) ⭐ 48,908 | 🐛 4,421 | 🌐 Clojure | 📅 2026-08-24
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
