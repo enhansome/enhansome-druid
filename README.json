@@ -465,10 +465,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-23T19:45:01Z",
+            "last_commit": "2026-08-24T14:41:26Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48892
+            "stars": 48906
           }
         },
         {
@@ -526,6 +526,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "pydruid",
+              "description": "A python client for Druid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12421065,
+                "language": "Python",
+                "last_commit": "2026-05-04T23:43:54Z",
+                "owner": "druid-io",
+                "repo": "pydruid",
+                "stars": 520
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RDruid",
+              "description": "An R connector for Druid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8227955,
+                "language": "R",
+                "last_commit": "2016-04-18T23:48:52Z",
+                "owner": "druid-io",
+                "repo": "RDruid",
+                "stars": 52
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "plywood",
               "description": "A higher level API for Druid. An extension of the work that was started in facet.js.",
               "children": [],
@@ -558,6 +602,28 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "clj-druid",
+              "description": "A Clojure client for Druid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23916920,
+                "language": "Clojure",
+                "last_commit": "2019-12-16T13:53:32Z",
+                "owner": "y42",
+                "repo": "clj-druid",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
         },
         {
           "children": [
@@ -615,6 +681,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "plyql",
+              "description": "A command line and HTTP interface for issuing SQL queries to Druid",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 42552791,
+                "language": "TypeScript",
+                "last_commit": "2019-09-10T23:06:07Z",
+                "owner": "implydata",
+                "repo": "plyql",
+                "stars": 146
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "druid-php",
               "description": "A PHP client for Druid",
               "children": [],
@@ -647,13 +735,100 @@
           "description": null,
           "node_type": "group",
           "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scruid",
+              "description": "A Scala client for Druid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96191705,
+                "language": "Scala",
+                "last_commit": "2021-07-04T10:22:44Z",
+                "owner": "ing-bank",
+                "repo": "scruid",
+                "stars": 118
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "druidry",
+              "description": "A Java Client and query generator for Druid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90364793,
+                "language": "Java",
+                "last_commit": "2023-08-06T20:28:33Z",
+                "owner": "zapr-oss",
+                "repo": "druidry",
+                "stars": 194
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "godruid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24936267,
+                "language": "Go",
+                "last_commit": "2023-08-25T04:57:31Z",
+                "owner": "shunfei",
+                "repo": "godruid",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
         }
       ],
       "title": "Clients"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Saiku",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2521861,
+            "language": "Java",
+            "last_commit": "2026-08-23T01:44:33Z",
+            "owner": "spiculedata",
+            "repo": "saiku",
+            "stars": 1315
+          }
+        }
+      ],
+      "title": "OpenSource OLAP"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:34:33.539Z",
+    "last_updated": "2026-08-24T14:45:47.420Z",
     "original_repository": "semantalytics/awesome-druid",
     "original_repository_id": 138177303,
     "original_repository_sha": "622c7939d23c2c1926adf4bf053078c75d980487",

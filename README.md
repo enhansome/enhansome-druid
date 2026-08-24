@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 48,892 | 🐛 4,392 | 🌐 Clojure | 📅 2026-08-23
+* [metabase](https://github.com/metabase/metabase) ⭐ 48,906 | 🐛 4,397 | 🌐 Clojure | 📅 2026-08-24
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -81,8 +81,8 @@
 
 ### SQL
 
-* \[Apache Calcite]\(Apache Calcite) - SQL parser, planner and query engine whose Druid adapter can query data residing in Druid, and combine it with data in other locations; has local and remote JDBC drivers powered by Avatica
 * [plyql](https://github.com/implydata/plyql) ⚠️ Archived - A command line and HTTP interface for issuing SQL queries to Druid
+* \[Apache Calcite]\(Apache Calcite) - SQL parser, planner and query engine whose Druid adapter can query data residing in Druid, and combine it with data in other locations; has local and remote JDBC drivers powered by Avatica
 
 ### PHP
 
@@ -158,12 +158,12 @@
 
 ## OpenSource OLAP
 
+* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,315 | 🐛 58 | 🌐 Java | 📅 2026-08-23
 * [olap4j](http://olap4j.org/)
 * [Mondrian](https://community.hitachivantara.com/docs/DOC-1009853)
 * [Pentaho](https://www.hitachivantara.com/go/pentaho.html?source=pentaho-redirect)
 * [jdbc4olap](http://www.jdbc4olap.org/)
-* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,315 | 🐛 58 | 🌐 Java | 📅 2026-08-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
