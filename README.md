@@ -14,7 +14,7 @@
 * [fili](https://github.com/yahoo/fili) ⭐ 176 | 🐛 291 | 🌐 Java | 📅 2023-07-19 Easily make RESTful web services for time series reporting with Big Data analytics engines like Druid and Hive.
 * [sherlock](https://github.com/yahoo/sherlock) ⭐ 158 | 🐛 12 | 🌐 Java | 📅 2024-12-02
 * [plyql](https://github.com/implydata/plyql) ⚠️ Archived
-* [maha](https://github.com/yahoo/maha) ⭐ 133 | 🐛 82 | 🌐 Scala | 📅 2025-01-17
+* [maha](https://github.com/yahoo/maha) ⭐ 134 | 🐛 82 | 🌐 Scala | 📅 2025-01-17
 * [grafana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28 This repository contains the druid plugin for Grafana 3.0
 * [druid-spark-batch](https://github.com/metamx/druid-spark-batch) ⭐ 102 | 🐛 21 | 🌐 Scala | 📅 2021-10-21
 * [druid-spark-batch](https://github.com/metamx/druid-spark-batch) ⭐ 102 | 🐛 21 | 🌐 Scala | 📅 2021-10-21
@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 48,925 | 🐛 4,463 | 🌐 Clojure | 📅 2026-08-25
+* [metabase](https://github.com/metabase/metabase) ⭐ 48,947 | 🐛 4,503 | 🌐 Clojure | 📅 2026-08-26
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -158,7 +158,7 @@
 
 ## OpenSource OLAP
 
-* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,315 | 🐛 55 | 🌐 Java | 📅 2026-08-25
+* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,316 | 🐛 55 | 🌐 Java | 📅 2026-08-25
 * [olap4j](http://olap4j.org/)
 * [Mondrian](https://community.hitachivantara.com/docs/DOC-1009853)
 * [Pentaho](https://www.hitachivantara.com/go/pentaho.html?source=pentaho-redirect)
@@ -166,4 +166,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

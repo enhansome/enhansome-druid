@@ -90,7 +90,7 @@
             "last_commit": "2025-01-17T07:40:27Z",
             "owner": "yahoo",
             "repo": "maha",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -465,10 +465,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-25T20:39:20Z",
+            "last_commit": "2026-08-26T23:22:31Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48925
+            "stars": 48947
           }
         },
         {
@@ -817,10 +817,10 @@
             "archived": false,
             "id": 2521861,
             "language": "Java",
-            "last_commit": "2026-08-25T16:06:27Z",
+            "last_commit": "2026-08-25T23:46:25Z",
             "owner": "spiculedata",
             "repo": "saiku",
-            "stars": 1315
+            "stars": 1316
           }
         }
       ],
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:39:28.983Z",
+    "last_updated": "2026-08-26T23:22:50.318Z",
     "original_repository": "semantalytics/awesome-druid",
     "original_repository_id": 138177303,
     "original_repository_sha": "622c7939d23c2c1926adf4bf053078c75d980487",
