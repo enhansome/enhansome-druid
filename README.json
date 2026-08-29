@@ -494,10 +494,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-28T04:15:27Z",
+            "last_commit": "2026-08-29T02:43:17Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48968
+            "stars": 48981
           },
           "first_seen": "2026-08-28T04:20:56.358Z"
         },
@@ -867,7 +867,7 @@
             "last_commit": "2026-08-25T23:46:25Z",
             "owner": "spiculedata",
             "repo": "saiku",
-            "stars": 1316
+            "stars": 1318
           },
           "first_seen": "2026-08-28T04:20:56.358Z"
         }
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:20:56.358Z",
+    "last_updated": "2026-08-29T02:47:18.001Z",
     "original_repository_info": {
       "archived": false,
       "id": 138177303,
