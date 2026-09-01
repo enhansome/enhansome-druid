@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T23:44:15Z",
-            "open_issues": 4475,
+            "last_commit": "2026-09-01T22:28:06Z",
+            "open_issues": 4419,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49026,
+            "stars": 49044,
             "topics": [
               "analytics",
               "bi",
@@ -967,7 +967,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2017-10-19T19:35:24Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "andremleblanc",
                 "repo": "druiddb-ruby",
                 "stars": 5,
@@ -1200,7 +1200,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T14:49:59Z",
-            "open_issues": 52,
+            "open_issues": 71,
             "owner": "spiculedata",
             "repo": "saiku",
             "stars": 1318,
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:45:33.697Z",
+    "last_updated": "2026-09-01T22:32:54.937Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
