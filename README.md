@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 49,044 | 🐛 4,419 | 🌐 Clojure | 📅 2026-09-01
+* [metabase](https://github.com/metabase/metabase) ⭐ 49,060 | 🐛 4,379 | 🌐 Clojure | 📅 2026-09-02
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -76,7 +76,7 @@
 ### Ruby
 
 * [ruby-druid](https://github.com/ruby-druid/ruby-druid) ⭐ 40 | 🐛 10 | 🌐 Ruby | 📅 2024-02-06 - A ruby client for Druid
-* [druiddb-ruby](https://github.com/andremleblanc/druiddb-ruby) ⭐ 5 | 🐛 1 | 🌐 Ruby | 📅 2017-10-19 - A Ruby client for Druid using the Kafka Indexing Service
+* [druiddb-ruby](https://github.com/andremleblanc/druiddb-ruby) ⭐ 5 | 🐛 2 | 🌐 Ruby | 📅 2017-10-19 - A Ruby client for Druid using the Kafka Indexing Service
 * [druid\_config](https://github.com/redBorder/druid_config) ⭐ 2 | 🐛 3 | 🌐 Ruby | 📅 2025-04-14 - A ruby client to configure and check the status of a Druid Cluster
 
 ### SQL
@@ -158,7 +158,7 @@
 
 ## OpenSource OLAP
 
-* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,318 | 🐛 71 | 🌐 Java | 📅 2026-08-31
+* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,319 | 🐛 71 | 🌐 Java | 📅 2026-08-31
 * [olap4j](http://olap4j.org/)
 * [Mondrian](https://community.hitachivantara.com/docs/DOC-1009853)
 * [Pentaho](https://www.hitachivantara.com/go/pentaho.html?source=pentaho-redirect)
@@ -166,4 +166,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
