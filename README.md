@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 49,421 | 🐛 4,493 | 🌐 Clojure | 📅 2026-09-25
+* [metabase](https://github.com/metabase/metabase) ⭐ 49,430 | 🐛 4,503 | 🌐 Clojure | 📅 2026-09-26
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -58,7 +58,7 @@
 
 ### Python
 
-* [pydruid](https://github.com/druid-io/pydruid) ⭐ 520 | 🐛 90 | 🌐 Python | 📅 2026-05-04 - A python client for Druid
+* [pydruid](https://github.com/druid-io/pydruid) ⭐ 520 | 🐛 93 | 🌐 Python | 📅 2026-05-04 - A python client for Druid
 
 ### R
 
@@ -166,4 +166,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
