@@ -91,7 +91,7 @@
             "id": 117894017,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T21:59:37Z",
+            "last_commit": "2026-09-28T19:44:41Z",
             "open_issues": 11,
             "owner": "yahoo",
             "repo": "sherlock",
@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T22:42:03Z",
-            "open_issues": 4514,
+            "last_commit": "2026-09-28T23:58:54Z",
+            "open_issues": 4518,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49435,
+            "stars": 49446,
             "topics": [
               "analytics",
               "bi",
@@ -1199,8 +1199,8 @@
             "id": 2521861,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T01:44:15Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-28T23:29:50Z",
+            "open_issues": 116,
             "owner": "spiculedata",
             "repo": "saiku",
             "stars": 1325,
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:58:08.168Z",
+    "last_updated": "2026-09-29T00:19:51.564Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
