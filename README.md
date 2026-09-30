@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 49,459 | 🐛 4,554 | 🌐 Clojure | 📅 2026-09-29
+* [metabase](https://github.com/metabase/metabase) ⭐ 49,482 | 🐛 4,551 | 🌐 Clojure | 📅 2026-09-30
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -158,7 +158,7 @@
 
 ## OpenSource OLAP
 
-* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,326 | 🐛 117 | 🌐 Java | 📅 2026-09-29
+* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,327 | 🐛 137 | 🌐 Java | 📅 2026-09-30
 * [olap4j](http://olap4j.org/)
 * [Mondrian](https://community.hitachivantara.com/docs/DOC-1009853)
 * [Pentaho](https://www.hitachivantara.com/go/pentaho.html?source=pentaho-redirect)
@@ -166,4 +166,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
