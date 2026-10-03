@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "tranquility",
-          "description": null,
+          "description": "druid-io/tranquility",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "sherlock",
-          "description": null,
+          "description": "yahoo/sherlock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "plyql",
-          "description": null,
+          "description": "implydata/plyql",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -136,7 +136,7 @@
         {
           "node_type": "item",
           "title": "maha",
-          "description": null,
+          "description": "yahoo/maha",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -192,7 +192,7 @@
         {
           "node_type": "item",
           "title": "druid-spark-batch",
-          "description": null,
+          "description": "metamx/druid-spark-batch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,7 +213,7 @@
         {
           "node_type": "item",
           "title": "druid-spark-batch",
-          "description": null,
+          "description": "metamx/druid-spark-batch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
         {
           "node_type": "item",
           "title": "node-druid-query",
-          "description": null,
+          "description": "7eggs/node-druid-query",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,7 +260,7 @@
         {
           "node_type": "item",
           "title": "embedded-druid",
-          "description": null,
+          "description": "eBay/embedded-druid",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -281,7 +281,7 @@
         {
           "node_type": "item",
           "title": "druid-client",
-          "description": null,
+          "description": "implydata/druid-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "clj-druid",
-          "description": null,
+          "description": "y42/clj-druid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,7 +323,7 @@
         {
           "node_type": "item",
           "title": "kafka-spark-streaming-druid",
-          "description": null,
+          "description": "ramkumarvenkat/kafka-spark-streaming-druid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,7 +365,7 @@
         {
           "node_type": "item",
           "title": "druid-console",
-          "description": null,
+          "description": "druid-io/druid-console",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +386,7 @@
         {
           "node_type": "item",
           "title": "druid-scala-client",
-          "description": null,
+          "description": "daggerrz/druid-scala-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "yahoo-druid-extensions",
-          "description": null,
+          "description": "YahooArchive/druid-extensions",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -428,7 +428,7 @@
         {
           "node_type": "item",
           "title": "druid-hadoop-utils",
-          "description": null,
+          "description": "himanshug/druid-hadoop-utils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -449,7 +449,7 @@
         {
           "node_type": "item",
           "title": "druid-hadoop-inputformat",
-          "description": null,
+          "description": "implydata/druid-hadoop-inputformat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +470,7 @@
         {
           "node_type": "item",
           "title": "druidlet",
-          "description": null,
+          "description": "InferlyticsOSS/druidlet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -497,7 +497,7 @@
         {
           "node_type": "item",
           "title": "docker-druid",
-          "description": null,
+          "description": "druid-io/docker-druid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -518,7 +518,7 @@
         {
           "node_type": "item",
           "title": "druid-kubernetes",
-          "description": null,
+          "description": "krallistic/druid-kubernetes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -539,7 +539,7 @@
         {
           "node_type": "item",
           "title": "cm-druid",
-          "description": null,
+          "description": "knoguchi/cm-druid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "druid-ansible",
-          "description": null,
+          "description": "imungoma/druid-ansible",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -602,7 +602,7 @@
         {
           "node_type": "item",
           "title": "druid-rpm",
-          "description": null,
+          "description": "cleberar/druid-rpm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -629,7 +629,7 @@
         {
           "node_type": "item",
           "title": "druid-monitor",
-          "description": null,
+          "description": "shrekwang/druid-monitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,7 +650,7 @@
         {
           "node_type": "item",
           "title": "druid-metrics-to-kafka",
-          "description": null,
+          "description": "quantiply/druid-metrics-to-kafka",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -677,7 +677,7 @@
         {
           "node_type": "item",
           "title": "metabase",
-          "description": null,
+          "description": "metabase/metabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T23:15:10Z",
-            "open_issues": 4560,
+            "last_commit": "2026-10-03T04:40:59Z",
+            "open_issues": 4561,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49515,
+            "stars": 49517,
             "topics": [
               "analytics",
               "bi",
@@ -717,7 +717,7 @@
         {
           "node_type": "item",
           "title": "turnilo",
-          "description": null,
+          "description": "allegro/turnilo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -743,7 +743,7 @@
         {
           "node_type": "item",
           "title": "swiv",
-          "description": null,
+          "description": "YahooArchive/swiv",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -769,7 +769,7 @@
         {
           "node_type": "item",
           "title": "graphana-druid-plugin",
-          "description": null,
+          "description": "grafana-druid-plugin/druidplugin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1158,7 +1158,7 @@
             {
               "node_type": "item",
               "title": "godruid",
-              "description": null,
+              "description": "shunfei/godruid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1190,7 +1190,7 @@
         {
           "node_type": "item",
           "title": "Saiku",
-          "description": null,
+          "description": "spiculedata/saiku",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1200,7 +1200,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T23:39:50Z",
-            "open_issues": 159,
+            "open_issues": 161,
             "owner": "spiculedata",
             "repo": "saiku",
             "stars": 1327,
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:42:59.060Z",
+    "last_updated": "2026-10-03T04:41:02.381Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
