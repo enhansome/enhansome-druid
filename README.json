@@ -65,7 +65,7 @@
             "open_issues": 291,
             "owner": "yahoo",
             "repo": "fili",
-            "stars": 176,
+            "stars": 174,
             "topics": [
               "analytics",
               "big-data",
@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T23:41:28Z",
-            "open_issues": 4567,
+            "last_commit": "2026-10-08T00:01:48Z",
+            "open_issues": 4576,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49557,
+            "stars": 49568,
             "topics": [
               "analytics",
               "bi",
@@ -1199,11 +1199,11 @@
             "id": 2521861,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T19:42:08Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-07T23:56:50Z",
+            "open_issues": 82,
             "owner": "spiculedata",
             "repo": "saiku",
-            "stars": 1330,
+            "stars": 1329,
             "topics": [
               "analytics",
               "apache-calcite",
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:45:01.375Z",
+    "last_updated": "2026-10-08T00:07:57.040Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
