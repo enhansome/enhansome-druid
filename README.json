@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T23:07:47Z",
-            "open_issues": 4566,
+            "last_commit": "2026-10-15T22:56:37Z",
+            "open_issues": 4560,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49668,
+            "stars": 49686,
             "topics": [
               "analytics",
               "bi",
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:08:36.361Z",
+    "last_updated": "2026-10-15T23:00:11.091Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
