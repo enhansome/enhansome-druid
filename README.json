@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T22:37:13Z",
-            "open_issues": 4551,
+            "last_commit": "2026-10-17T21:44:20Z",
+            "open_issues": 4556,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49705,
+            "stars": 49714,
             "topics": [
               "analytics",
               "bi",
@@ -1199,8 +1199,8 @@
             "id": 2521861,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:21:31Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-17T14:07:45Z",
+            "open_issues": 59,
             "owner": "spiculedata",
             "repo": "saiku",
             "stars": 1331,
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:45:51.416Z",
+    "last_updated": "2026-10-17T22:12:23.016Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
