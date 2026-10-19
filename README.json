@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "drtrang",
             "repo": "druid-spring-boot",
-            "stars": 314,
+            "stars": 313,
             "topics": [
               "druid",
               "spring-boot",
@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T22:02:37Z",
-            "open_issues": 4560,
+            "last_commit": "2026-10-19T23:27:34Z",
+            "open_issues": 4552,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49726,
+            "stars": 49744,
             "topics": [
               "analytics",
               "bi",
@@ -1203,7 +1203,7 @@
             "open_issues": 72,
             "owner": "spiculedata",
             "repo": "saiku",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "analytics",
               "apache-calcite",
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:22:55.846Z",
+    "last_updated": "2026-10-19T23:33:32.850Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
