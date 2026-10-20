@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T23:27:34Z",
-            "open_issues": 4552,
+            "last_commit": "2026-10-20T23:07:47Z",
+            "open_issues": 4560,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49744,
+            "stars": 49767,
             "topics": [
               "analytics",
               "bi",
@@ -1203,7 +1203,7 @@
             "open_issues": 72,
             "owner": "spiculedata",
             "repo": "saiku",
-            "stars": 1332,
+            "stars": 1333,
             "topics": [
               "analytics",
               "apache-calcite",
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:33:32.850Z",
+    "last_updated": "2026-10-20T23:08:20.729Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
