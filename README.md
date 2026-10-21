@@ -20,7 +20,7 @@
 * [druid-spark-batch](https://github.com/metamx/druid-spark-batch) ⭐ 102 | 🐛 21 | 🌐 Scala | 📅 2021-10-21
 * [node-druid-query](https://github.com/7eggs/node-druid-query) ⭐ 94 | 🐛 17 | 🌐 JavaScript | 📅 2024-07-11
 * [embedded-druid](https://github.com/eBay/embedded-druid) ⚠️ Archived
-* [druid-client](https://github.com/implydata/druid-client) ⭐ 33 | 🐛 4 | 🌐 Java | 📅 2018-01-04
+* [druid-client](https://github.com/implydata/druid-client) ⭐ 34 | 🐛 4 | 🌐 Java | 📅 2018-01-04
 * [clj-druid](https://github.com/y42/clj-druid) ⭐ 31 | 🐛 7 | 🌐 Clojure | 📅 2019-12-16
 * [kafka-spark-streaming-druid](https://github.com/ramkumarvenkat/kafka-spark-streaming-druid) ⭐ 30 | 🐛 3 | 🌐 Scala | 📅 2023-09-29
 * [druid-mdx](https://github.com/julianhyde/druid-mdx) ⭐ 26 | 🐛 1 | 🌐 Java | 📅 2016-08-03 Example of running MDX on Druid via Mondrian and Calcite
@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 49,767 | 🐛 4,560 | 🌐 Clojure | 📅 2026-10-20
+* [metabase](https://github.com/metabase/metabase) ⭐ 49,788 | 🐛 4,594 | 🌐 Clojure | 📅 2026-10-21
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -166,4 +166,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
