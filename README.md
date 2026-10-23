@@ -48,7 +48,7 @@
 
 ## UI
 
-* [metabase](https://github.com/metabase/metabase) ⭐ 49,798 | 🐛 4,612 | 🌐 Clojure | 📅 2026-10-22
+* [metabase](https://github.com/metabase/metabase) ⭐ 49,823 | 🐛 4,590 | 🌐 Clojure | 📅 2026-10-23
 * [turnilo](https://github.com/allegro/turnilo) ⚠️ Archived
 * [swiv](https://github.com/yahoo/swiv) ⚠️ Archived
 * [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) ⭐ 103 | 🐛 49 | 🌐 TypeScript | 📅 2023-02-28
@@ -66,7 +66,7 @@
 
 ### JavaScript
 
-* [plywood](https://github.com/implydata/plywood) ⭐ 382 | 🐛 54 | 🌐 JavaScript | 📅 2024-11-20 - A higher level API for Druid. An extension of the work that was started in facet.js.
+* [plywood](https://github.com/implydata/plywood) ⭐ 381 | 🐛 54 | 🌐 JavaScript | 📅 2024-11-20 - A higher level API for Druid. An extension of the work that was started in facet.js.
 * [node-druid-query](https://github.com/7eggs/node-druid-query) ⭐ 94 | 🐛 17 | 🌐 JavaScript | 📅 2024-07-11 - A Node.js client for Druid
 
 ### Clojure
@@ -158,7 +158,7 @@
 
 ## OpenSource OLAP
 
-* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,333 | 🐛 72 | 🌐 Java | 📅 2026-10-18
+* [Saiku](https://github.com/OSBI/saiku) ⭐ 1,333 | 🐛 77 | 🌐 Java | 📅 2026-10-23
 * [olap4j](http://olap4j.org/)
 * [Mondrian](https://community.hitachivantara.com/docs/DOC-1009853)
 * [Pentaho](https://www.hitachivantara.com/go/pentaho.html?source=pentaho-redirect)
@@ -166,4 +166,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
