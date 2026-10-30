@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T23:52:16Z",
-            "open_issues": 4638,
+            "last_commit": "2026-10-30T23:34:34Z",
+            "open_issues": 4649,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49978,
+            "stars": 50029,
             "topics": [
               "analytics",
               "bi",
@@ -730,7 +730,7 @@
             "open_issues": 139,
             "owner": "allegro",
             "repo": "turnilo",
-            "stars": 769,
+            "stars": 768,
             "topics": [
               "business-intelligence",
               "data-visualization",
@@ -1200,7 +1200,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T16:19:13Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "spiculedata",
             "repo": "saiku",
             "stars": 1334,
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:54:04.863Z",
+    "last_updated": "2026-10-30T23:38:47.832Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
