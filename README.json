@@ -686,11 +686,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T01:40:54Z",
-            "open_issues": 4741,
+            "last_commit": "2026-11-20T01:15:45Z",
+            "open_issues": 4761,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 50404,
+            "stars": 50437,
             "topics": [
               "analytics",
               "bi",
@@ -730,7 +730,7 @@
             "open_issues": 139,
             "owner": "allegro",
             "repo": "turnilo",
-            "stars": 769,
+            "stars": 768,
             "topics": [
               "business-intelligence",
               "data-visualization",
@@ -811,7 +811,7 @@
                 "open_issues": 93,
                 "owner": "druid-io",
                 "repo": "pydruid",
-                "stars": 519,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:20:56.358Z"
@@ -1199,11 +1199,11 @@
             "id": 2521861,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T00:08:36Z",
+            "last_commit": "2026-11-20T00:23:59Z",
             "open_issues": 97,
             "owner": "spiculedata",
             "repo": "saiku",
-            "stars": 1339,
+            "stars": 1338,
             "topics": [
               "analytics",
               "apache-calcite",
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:50:17.895Z",
+    "last_updated": "2026-11-20T01:44:41.841Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
